@@ -123,7 +123,7 @@
                                                                         name="password">
                                                                 </div>
 
-{{-- 
+
                                                                 <div class="form-group mb-3">
 
                                                                     <select class="form-control selectpicker"
@@ -136,7 +136,7 @@
 
                                                                     </select>
 
-                                                                </div> --}}
+                                                                </div>
 
                                                             </div>
                                                             <div class="modal-footer">
@@ -242,7 +242,7 @@
                                                                                                 value="{{ $u->password }}">
                                                                                         </div>
 
-                                                                                        {{-- <div class="mb-3">
+                                                                                        <div class="mb-3">
                                                                                             <select
                                                                                                 class="form-control"
                                                                                                 name="role_id"
@@ -255,7 +255,7 @@
                                                                                                     </option>
                                                                                                 @endforeach
                                                                                             </select>
-                                                                                        </div> --}}
+                                                                                        </div>
 
                                                                                         <button type="submit"
                                                                                             class="btn btn-primary">Save
